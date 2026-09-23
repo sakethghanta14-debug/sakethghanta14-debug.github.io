@@ -1,7 +1,8 @@
 # sakethghanta14-debug.github.io
-## 🚀 Live Demo
+# 🌐 Project Title
 
-Click the image preview below to open the fully interactive website!
+<!-- This creates a clean, visual live demo button -->
+[![Live Demo](https://shields.io🚀_View_Live_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.io)
 
-[![HI click me](<img width="92" height="92" alt="image" src="https://github.com/user-attachments/assets/721f1d46-d73f-4325-b90a-5daaa644f707" />
-)](rivals.hmtl)
+---
+
