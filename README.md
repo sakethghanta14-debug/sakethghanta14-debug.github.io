@@ -2,7 +2,7 @@
 # 🌐 Project Title
 
 <!-- This creates a clean, visual live demo button -->
-[![Live Demo](https://shields.io🚀_View_Live_Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.io)
+[![Live Demo](http://127.0.0.1:3000/game.html?vscode-livepreview=true)](https://github.io)
 
 ---
 
